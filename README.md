@@ -1,4 +1,4 @@
-# customize your xfce look like window-11
+# How to make XFCE look like Windows
 <p>customize your xfce look like window 11</p>
 
 ### Images
