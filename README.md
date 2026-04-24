@@ -4,7 +4,34 @@ customize your xfce look like window 11
 ### Images
 
 - <b>Win11 : Light</b>
-<p align="center"><img src="./Images/win11.png"></p>
+
+*DESKTOP*
+<p align="center"><img src="./images/Win11_Ligh_Desktop.png"></p>
+
+<br>
+
+*FILEMANAGER*
+<p align="center"><img src="./images/Win11_Light_filemanager.png"></p>
+
+<br>
+<br>
+
+- <b>Win11 : Light</b>
+
+*DESKTOP*
+
+<p align="center"><img src="./images/Win11_Dark_Desktop.png"></p>
+
+<br>
+
+*FILEMANAGER*
+
+<p align="center"><img src="./images/Win11_Dark_filemanager.png"></p>
+
+<br>
+<br>
+
+
 
 ## yaha se aap apne xfce Desktop Ko Windows 11 ki tahar customize kar sakte ho
 ***Customize karne ke liye niche ke steps follow kare***
@@ -35,10 +62,25 @@ customize your xfce look like window 11
 
 3. Niche <b>Releases</b> me jao or Win11.zip file (321 MB ka) download kar lo
 
-    - [Releases](https://github.com/sahu-dev-hub/xfce_customize/releases/tag/v1.0.0)
+    - [Releases (Win11.zip)](https://github.com/sahu-dev-hub/xfce_customize/releases/tag/v1.0.0)
   
    ****Agar aap bilkul Beginner hai to SAHU DEV-HUB Youtube chanel visite Kar sakte hai****
       
-    - [Releases]()
-  
+    - [SAHU DEV_HUB]()
 
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+- ***Buy me a coffee?👇***
+ 
+   <details></br>
+   <summary><b>Fuel my late-night coding sessions ☕</b></summary>
+   <p align="center"><img src="./Images/xfce.png"></p>
+   </details>
