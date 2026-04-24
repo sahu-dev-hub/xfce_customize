@@ -46,7 +46,7 @@ customize your xfce look like window 11
    sudo apt install thunar-archive-plugin file-roller -y
    ```
 
-2. Docklike taskbar install karei
+2. Docklike taskbar install kare
 
       ```bash
       sudo add-apt-repository ppa:xubuntu-dev/extras
@@ -78,9 +78,19 @@ customize your xfce look like window 11
 <br>
 
 
-- ***Buy me a coffee?👇***
+- ***Buy me a coffee🫠?*** 👇
  
    <details></br>
    <summary><b>Fuel my late-night coding sessions ☕</b></summary>
-   <p align="center"><img src="./Images/xfce.png"></p>
+   <p align="center"><img src="./images/scanner.jpg"></p>
    </details>
+
+<br>
+<br>
+<br>
+
+## Credits
+
+* [SAHU DEV-HUB](https://github.com/sahu-dev-hub/)
+* [Gtk-Theme](https://github.com/vinceliuice/Fluent-gtk-theme/)
+* [icon-Theme](https://github.com/luisrguerra/fluent11-icon-theme/)
