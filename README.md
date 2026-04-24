@@ -1,6 +1,11 @@
 # xfce_customize
 customize your xfce look like window 11
 
+### Images
+
+- <b>Win11 : Light</b>
+<p align="center"><img src="./Images/win11.png"></p>
+
 ## yaha se aap apne xfce Desktop Ko Windows 11 ki tahar customize kar sakte ho
 ***Customize karne ke liye niche ke steps follow kare***
 
@@ -31,4 +36,9 @@ customize your xfce look like window 11
 3. Niche <b>Releases</b> me jao or Win11.zip file (321 MB ka) download kar lo
 
     - [Releases](https://github.com/sahu-dev-hub/xfce_customize/releases/tag/v1.0.0)
+  
+   ****Agar aap bilkul Beginner hai to SAHU DEV-HUB Youtube chanel visite Kar sakte hai****
       
+    - [Releases]()
+  
+
