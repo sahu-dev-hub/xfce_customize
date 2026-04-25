@@ -64,7 +64,17 @@
       sudo apt install xfce4-docklike-plugin -y
       ```
 
-3. Niche <b>Releases</b> me jao or Win11.zip file (321 MB ka) download kar lo
+3. xfce4 panel profiles install kare
+
+   ```bash
+   sudo apt update
+   ```
+
+   ```bash
+   sudo apt install xfce4-panel-profiles -y
+   ```
+
+5. Niche <b>Releases</b> me jao or Win11.zip file (321 MB ka) download kar lo
 
     - [Releases (Win11.zip)](https://github.com/sahu-dev-hub/xfce_customize/releases/tag/v1.0.0)
   
