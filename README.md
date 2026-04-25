@@ -45,6 +45,10 @@
    ```bash
    sudo apt install thunar-archive-plugin file-roller -y
    ```
+   ```bash
+   sudo apt install unzip p7zip-full tar
+   ```
+   
 
 2. Docklike taskbar install kare
 
