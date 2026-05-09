@@ -94,10 +94,10 @@
 
 - ***Buy me a coffee🫠?*** 👇
  
-   <details></br>
-   <summary><b>Fuel my late-night coding sessions ☕</b></summary>
-   <p align="center"><img src="./images/scanner.jpg"></p>
-   </details>
+   <details>
+  <summary><b>Fuel my late-night coding sessions ☕</b></summary>
+  <p align="center"><img src="./images/scanner.jpg" alt="scanner" width="400" height="400"></p>
+</details>
 
 <br>
 <br>
