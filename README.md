@@ -74,7 +74,7 @@
    sudo apt install xfce4-panel-profiles -y
    ```
 
-5. Niche <b>Releases</b> me jao or windows11.zip file (154 MB ka) download kar lo
+5. Niche <b>Releases</b> me jao or windows11.zip file (152 MB ka) download kar lo
 
     - [Releases (Win11.zip)](https://github.com/sahu-dev-hub/xfce_customize/releases/tag/v1.0.0)
   
