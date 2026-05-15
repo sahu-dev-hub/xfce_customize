@@ -76,7 +76,7 @@
 
 5. Niche <b>Releases</b> me jao or windows11.zip file (152 MB ka) download kar lo
 
-    - [Releases (Win11.zip)](https://github.com/sahu-dev-hub/xfce_customize/releases/tag/v1.0.0)
+    - [Releases (Win11.zip)](https://github.com/sahu-dev-hub/xfce_customize/releases/tag/2.2.1)
   
    ****Agar aap bilkul Beginner hai to SAHU DEV-HUB Youtube chanel visite Kar sakte hai****
       
